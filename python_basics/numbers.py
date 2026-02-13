@@ -19,3 +19,38 @@ print(f"the sum of numbers : {sum_number}")
 print(f"the difference of numbers : {difference_number}")
 print(f"the quotient of numbers : {quotient_number}")
 print(f"the product of numbers : {product_number}")     
+
+
+
+#sum_number= first_number + second_number
+#difference_number= first_number-second_number
+#quotient_number= first_number / second_number
+#product_number= first_number * second_number
+
+
+#print(f"the sum of numbers : {sum_number}")
+ 
+#print(f"the difference of numbers : {difference_number}")
+#print(f"the quotient of numbers : {quotient_number}")
+
+
+
+third_number= input("what is yor third number?")
+
+print(f"the type of third number is: {type(third_number)}")
+# covert third number to an integer
+third_number= int(third_number)
+
+print(f"the type of third number is: {type(third_number)}")
+
+
+
+
+
+
+
+
+
+
+
+
