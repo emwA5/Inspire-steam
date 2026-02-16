@@ -1,8 +1,7 @@
-#Name : Njane Alvin
-#Date : 13.02.2026
-# program to calculate arithmetic progression
-
-#calculating the nth term 
+# Alvin Njane
+#13.02.2026
+# program for arithmetic progressions
+# # Calculating the nth term 
 
 a=int(input("enter the first term :"))
 n =int(input("Enter the number of terms :"))
@@ -14,3 +13,4 @@ print(f"The nth term is : {nth_term}")
 
 Sn=(n/2)* (2*a + (n-1)*d)
 print(f"The sum of the numbers is: {Sn}")
+
