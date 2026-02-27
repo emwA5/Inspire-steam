@@ -1,30 +1,30 @@
-#Name : Njane Alvin
-#Date : 13.02.2026
-# program for maths operations
-
-import math
-number= 16.79
+# MWANGI ERICK
+# Date : 13/02/2026
+# Program to do mathematical operations
+import math 
+number = 16.79
 
 print(abs(number))
-
 print(math.ceil(number))
-angle_radians = 60
-angle_degree = angle_radians / 180
 
-X =1  #radians
-Y= math.degrees(X)
+angle_radians = 60 
+angle_degrees = angle_radians / 180
 
-print(X)
-print(Y)
+x = 1  # radians 
+y = math.degrees(x)
 
-print(math.cos(angle_degree))
-print(math.sin(angle_degree))
-print(math.tan(angle_degree))
+print(x)
+print(y)
 
-print(min (3,4))
+print(math.cos(angle_degrees))
+print(math.sin(angle_degrees))
+print(math.tan(angle_degrees))
+
+
+print(min(3,4))
 print(max(13,46))
 
 print(math.sqrt(144))
 
-print(25**2)#25 raised to power 2
-print(3**3)#3 raised to power 3
+print(25**2) # 25 raised to power 2 
+print(3**3)
